@@ -11,6 +11,24 @@ section
 	box-sizing: border-box;
 	padding:10px;
 }
+#box1
+{
+	border-style: solid;
+	border-color: #00FF00;
+	border-width: 3px;
+}
+#box2
+{
+	border-style: solid;
+	border-color: #00FF00;
+	border-width: 3px;
+}
+#box3
+{
+	border-style: solid;
+	border-color: #00FF00;
+	border-width: 3px;
+}
 .sectionheading
 {
 	float:right;
