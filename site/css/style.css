@@ -2,6 +2,7 @@
 /* Desktop */
 h1{
 	text-align:center;
+	font-size: 1.75em;
 }
 section
 {
@@ -9,19 +10,20 @@ section
 	border-width: 1px;
 	background-color:white;
 	box-sizing: border-box;
-	height:200px;
+	height:207px;
 	overflow: hidden;
-	padding: 0px;
+	
 	background-color:grey;
 }
 p
 {
 	clear:right;
+	padding-left: 10px;
 }
 #box1
 {
 	border-style: solid;
-	border-color: #00FF00;
+	border-color: #000000;
 	border-width: 1px;
 	background-color: #991F00;
 	color: #FFFFFF;
@@ -29,7 +31,7 @@ p
 #box2
 {
 	border-style: solid;
-	border-color: #00FF00;
+	border-color: #000000;
 	background-color: #991FFF;
 	color: #EEEEEE;
 	border-width: 1px;
@@ -37,13 +39,16 @@ p
 #box3
 {
 	border-style: solid;
-	border-color: #00FF00;
+	border-color: #000000;
 	border-width: 1px;
 	background-color: #FF0044;
 }
 .sectionheading
 {
 	float:right;
+	font-size: 1.25em;
+	padding-right:50px;
+	padding-left:50px;
 }
 @media (min-width: 1200px)
 {
